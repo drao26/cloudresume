@@ -1,0 +1,64 @@
+* {
+    max-width: 700px;
+    margin: auto;
+    line-height: 1.5; /* Increase line spacing */
+}
+
+/* Set font and background color */
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #ffffff;
+    border: 30px solid #b4ccf0cb; /* Add power blue thick border */
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+}
+
+p {
+    margin-bottom: 10px; /* Adds space between paragraphs */
+    line-height: 1.5; /* Increase line spacing */
+}
+
+div {
+    margin: 25px;
+}
+
+/* Container for the resume */
+.resume-container {
+    max-width: auto;
+    margin: auto;
+    padding: auto;
+    background-color: #ffffffd3;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.centered-text {
+    text-align: center;
+}
+
+/* Center align h1 */
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+div {
+    margin-bottom: 25px;
+}
+
+header {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+div {
+    margin-bottom: 25px;
+}
